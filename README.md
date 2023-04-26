@@ -1,0 +1,1 @@
+The folder contains gesture data for 5 subjects. The first three subjects' data included raw data for 10 gestures, subject 4 collected 50 sets of data for one hand, and subject 5 collected 30 sets of data for one hand.
